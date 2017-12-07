@@ -1,6 +1,8 @@
-**Python wrapper for the RVO2-3D Library https://github.com/snape/RVO2-3D**
+Python wrapper for the RVO2-3D Library https://github.com/snape/RVO2-3D
+=======================================================================
 
-**Tested on:**
+Tested on:
+----------
 
 Ubuntu 16.04 LTS x64 (64 bit) machine
     - Python 2.7.12 (default, Nov 19 2016, 06:48:10) [GCC 5.4.0 20160609] on linux2
@@ -12,7 +14,8 @@ Windows 10 Pro, x64 (64 bit) machine, win32
 
 Wrapper inspired by https://github.com/sybrenstuvel/Python-RVO2
 
-**Original Readme**
+Original Readme
+===============
 
 RVO2-3D Library is an easy-to-use C++ implementation of the optimal reciprocal
 collision avoidance (ORCA) formulation <http://gamma.cs.unc.edu/ORCA/> for
